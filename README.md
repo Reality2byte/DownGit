@@ -24,5 +24,17 @@ In default, value of `fileName` and `rootDirectory` is set to the name of the do
 
 If you want to download file- **`https://github.com/MinhasKamal/DownGit/blob/master/res/images/downgit.png`** with name- **`DownGitIcon.zip`**, then the link will be- https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MinhasKamal/DownGit/blob/master/res/images/downgit.png&fileName=DownGitIcon
 
+### Citation
+If this tool was helpful for your research, please cite-
+```bibtex
+@misc{Minhas2016DownGit,
+  author    = {Kamal, Minhas},
+  title     = {DownGit: Create GitHub Resource Download Link},
+  year      = {2016},
+  publisher = {GitHub},
+  url       = {https://github.com/MinhasKamal/DownGit}
+}
+```
+
 ### License
 <a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://cloud.githubusercontent.com/assets/5456665/18950087/fbe0681a-865f-11e6-9552-e59d038d5913.png" width="60em" height=auto/></a><br/><a href="https://github.com/MinhasKamal/DownGit">DownGit</a> is licensed under <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
